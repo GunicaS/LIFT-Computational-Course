@@ -1,8 +1,4 @@
-# LIFT-Computational-Course
-This repo contains all the work from the LIFT Computational Course Internship done for the Bioinnovation Group @ UC Davis
-
-# LIFT Programming Course Development
-
+# LIFT-Computational-Course Development
 ## Project Overview
 
 This repository contains materials created during my internship to support the planning and development of the **LIFT** Computational course. These resources include strategic presentations, module design outlines, and a detailed framework for course implementation.
